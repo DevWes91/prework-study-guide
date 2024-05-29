@@ -2,20 +2,6 @@
 
 ## Tbis is a prework study guide webpage used to help facilitate a basic understanding of core coding fundamentals such as HTML, CSS, Git and JavaScript. This can be used as a tool to help with the basics of building a webpage, using Git and Github, and adding your own style and customizations to whatever you build. I learned a lot about the basic framework of a webpage, particularly I liked the analogy of building a house: foundation first, then styling with colors and other personalizations, and finally making the home interactive by adding a working door and windows (JavaScript).
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
 N/A
