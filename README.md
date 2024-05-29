@@ -1,4 +1,4 @@
-# <Wesley's Coding Bootcamp Prework Study Guide Webpage>
+# Wesley's Coding Bootcamp Prework Study Guide Webpage
 
 ## Tbis is a prework study guide webpage used to help facilitate a basic understanding of core coding fundamentals such as HTML, CSS, Git and JavaScript. This can be used as a tool to help with the basics of building a webpage, using Git and Github, and adding your own style and customizations to whatever you build. I learned a lot about the basic framework of a webpage, particularly I liked the analogy of building a house: foundation first, then styling with colors and other personalizations, and finally making the home interactive by adding a working door and windows (JavaScript).
 
